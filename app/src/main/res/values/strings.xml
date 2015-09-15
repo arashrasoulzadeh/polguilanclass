@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guide</string>
+
+    <string name="title_section1">صفحه اصلی</string>
+    <string name="title_section2">تقویم آموزشی</string>
+    <string name="title_section3">معرفی دوره ها</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
